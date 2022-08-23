@@ -1,0 +1,39 @@
+@import '~antd/dist/antd.css';
+
+.container__header {
+
+    display: flex;
+    justify-content: end;
+}
+
+.user__name {
+    color: #fff;
+}
+
+.height100 {
+    height: calc(100vh - 64px);
+}
+
+.contact__flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact__flex-number {
+    display: flex;
+
+}
+
+.contact__flex-number div {
+    padding-right: 5px;
+}
+
+.contact__container {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mrgt-15 {
+    margin-top: 15px;
+}

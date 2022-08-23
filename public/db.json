@@ -1,0 +1,26 @@
+{
+    "auth": [
+      { 
+        "username": "user",
+        "password": "123"
+       },
+       {
+        "username": "admin",
+        "password": "admin"
+       },
+       {
+        "username": "Antony",
+        "password": "1234"
+       }
+    ],
+    "contacts": [
+      {"id": 1, "name": "Anatoly", "number": "+79232232132"},
+      {"id": 2, "name": "Casimir", "number": "+79232232222"},
+      {"id": 3, "name": "Remo", "number": "+73492993994"},
+      {"id": 4, "name": "Colu", "number": "+70304405004"},
+      {"id": 5, "name": "Rudge", "number": "+79234949494"},
+      {"id": 6, "name": "Meet", "number": "+79232232133"}
+    ]
+
+
+  }
